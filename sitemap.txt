@@ -1,0 +1,5 @@
+https://goonetes.github.io/goonetes/hello-world.html
+https://goonetes.github.io/links/index.html
+https://goonetes.github.io/categories/index.html
+https://goonetes.github.io/tags/index.html
+https://goonetes.github.io/
